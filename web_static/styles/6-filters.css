@@ -5,6 +5,7 @@
     border: 1px solid #DDDDDD;
     border-radius: 4px;
     display: inline-flex;
+    justify-content: space-between;
 }
 
 button{
@@ -43,7 +44,6 @@ button:hover{
     margin-left: -31px;
     padding: 15px 0px 15px 30px;
     border: 1px solid #DDDDDD;
-    /* position: relative; */
     display: block;
 }
 
@@ -55,7 +55,6 @@ button:hover{
     margin-left: -31px;
     padding: 15px 0px 15px 30px;
     border: 1px solid #DDDDDD;
-    /* position: relative; */
     display: block;
 }
 
@@ -63,6 +62,7 @@ h3{
     font-weight: 600;
     margin-bottom: 3px;
 }
+
 h4{
     font-weight: 400;
     font-size: 14px;
@@ -82,4 +82,3 @@ h4{
 .popover li{
     margin: 8px 0 ; 
 }
-
