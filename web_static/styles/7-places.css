@@ -13,7 +13,12 @@
 }
 
 .places article{
-    display: grid;
-    gap: 20px;
-    grid-template-columns: 4fr;
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+ 
+}
+
+#suite{
+  flex-shrink: 1;
 }

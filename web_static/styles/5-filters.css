@@ -18,7 +18,7 @@ button{
     transition: 0.3s;
     margin-right: 30px;
     margin-top: 11px;
-    align-self: flex-end;
+    float: right;
 }
 
 button:hover{
