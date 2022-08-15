@@ -104,3 +104,20 @@
 .user > span{
     font-weight: 700;
 }
+
+.reviews{
+    margin-top: 40px;
+}
+
+.reviews h2{
+    font-size: 16px;
+    border-bottom: 1px solid #DDDDDD;
+}
+
+.reviews ul li{
+    list-style: outside;
+}
+
+.reviews ul li p{
+    font-size: 12px;
+}
